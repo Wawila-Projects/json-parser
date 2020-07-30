@@ -8,9 +8,9 @@ namespace JsonParser
     {
         static void Main(string[] args)
         {
-            const string path0 = @"c:\users\david chavarria\documents\visual studio 2017\Projects\JsonParser\JsonParser\JsonTest0.json";
-            const string path1 = @"c:\users\david chavarria\documents\visual studio 2017\Projects\JsonParser\JsonParser\JsonTest1.json";
-            const string path2 = @"c:\users\david chavarria\documents\visual studio 2017\Projects\JsonParser\JsonParser\JsonTest2.json";
+            const string path0 = @"JsonParser/JsonTest0.json";
+            const string path1 = @"JsonParser/JsonTest1.json";
+            const string path2 = @"JsonParser/JsonTest2.json";
 
             var test = new List<IInput>
             {
